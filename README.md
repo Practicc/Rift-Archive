@@ -2,7 +2,7 @@
   
 # Rift Archive
 
- Maintained by [Practic](https://tiktok.com/@0hdv "Practic"), [Alosh](https://twitter.com/aIoshreal "Alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo"), and [Kianna](https://twitter.com/AyeItsAxi "Kianna")
+ Maintained by [Practic](https://tiktok.com/@0hdv "Practic"), [Alosh](https://twitter.com/aIoshreal "Alosh"), [Fizlo](https://www.youtube.com/Fizlo "Fizlo"), [Kianna](https://twitter.com/AyeItsAxi "Kianna"), and [Wooby](https://twitter.com/_wob "Wooby")
   
  # Rift 2.0.1.X
 | Version | Download | 
