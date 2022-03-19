@@ -7,7 +7,7 @@
    # Pre 2.0
 | Version | Download | 
 | ----------- | ----------- | 
-| Rift Update 4 Launcher Fix | https://rebrand.ly/U-4-Fix |
+| Rift Update 4 Launcher Fix | Season Support: unknown | https://rebrand.ly/U-4-Fix |
   
   # Rift 2.0
 | Version | Download | 
