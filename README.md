@@ -1,3 +1,3 @@
 # Rift Archive
 
-maintained by alosh and practic :)
+maintained by alosh and practic :) + fizlo now
