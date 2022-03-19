@@ -1,3 +1,3 @@
-# Rift Be Like
-i made this bc bored
-k bye
+# Rift Archive
+
+maintained by alosh and practic :)
