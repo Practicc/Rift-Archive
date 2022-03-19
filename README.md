@@ -24,7 +24,7 @@
   # Rift 2.1.0.X
 | Version | Download | 
 | ----------- | ----------- | 
-| Rift 2.1.0 | https://rebrand.ly/2-1-0 |
+| Rift 2.1.0.0 | https://rebrand.ly/2-1-0 |
 | Rift 2.1.0.2 | https://rebrand.ly/2-1-0-2 |
 | Rift 2.1.0.3 | https://rebrand.ly/2-1-0-3 |
 | Rift 2.1.0.4-MP | https://rebrand.ly/2-1-0-4-mp |
