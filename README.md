@@ -9,23 +9,23 @@
  # Rift 2.0.1.X
 | Version | Download | 
 | ----------- | ----------- | 
-| Rift 2.0.1.0 | https://github.com/Practicc/Rift-Archive/blob/main/Rift-2.0.1.0.7z?raw=true |
-| Rift 2.0.1.2 | https://github.com/Practicc/Rift-Archive/blob/main/Rift-2.0.1.2.7z?raw=true |
+| Rift 2.0.1.0 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.0.1.0.7z?raw=true |
+| Rift 2.0.1.2 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.0.1.2.7z?raw=true |
   
   # Rift 2.1.0.X
 | Version | Download | 
 | ----------- | ----------- | 
-| Rift 2.1.0 | https://github.com/Practicc/Rift-Archive/blob/main/Rift-2.1.0.7z?raw=true |
-| Rift 2.1.0.4 | https://github.com/Practicc/Rift-Archive/blob/main/Rift-2.1.0.4.7z?raw=true |
+| Rift 2.1.0 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.1.0.7z?raw=true |
+| Rift 2.1.0.4 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.1.0.4.7z?raw=true |
   
   # Rift 2.2.0.X
 | Version | Download | 
 | ----------- | ----------- | 
-| Rift 2.2.0.0 | https://github.com/Practicc/Rift-Archive/blob/main/Rift-2.2.0.0.7z?raw=true |
-| Rift 2.2.0.1 | https://github.com/Practicc/Rift-Archive/blob/main/Rift-2.2.0.1.7z?raw=true |
-| Rift 2.2.0.2 | https://github.com/Practicc/Rift-Archive/blob/main/Rift-2.2.0.2.7z?raw=true |
-| Rift 2.2.0.4 | https://cdn.discordapp.com/attachments/954585050106699879/954594988661014548/Rift-2.2.0.4.zip |
-| Rift 2.2.0.5 | https://github.com/Practicc/Rift-Archive/blob/main/Rift-2.2.0.5.7z?raw=true |
+| Rift 2.2.0.0 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.2.0.0.7z?raw=true |
+| Rift 2.2.0.1 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.2.0.1.7z?raw=true |
+| Rift 2.2.0.2 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.2.0.2.7z?raw=true |
+| Rift 2.2.0.4 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.2.0.4.7z?raw=true |
+| Rift 2.2.0.5 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.2.0.5.7z?raw=true |
   
   # Have any builds that are not on this list? Submit them [here](https://forms.gle/iQsCTGjfqMEbcwHh7 "here")!
   
