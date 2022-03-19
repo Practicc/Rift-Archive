@@ -28,4 +28,4 @@
   
   # Have any builds that are not on this list? Submit them [here](https://forms.gle/iQsCTGjfqMEbcwHh7 "here")!
   
-  <sub><sup>Managers of the Rift archival team are not owners of Rift, we are just aiming to keep versions of Rift safely in case anything happens to them. Rift is owned by Makks and developed by Makks and Jake, and Rift can be officially downloaded in the Rift [Discord server](https://discord.gg/riftfn "Discord server").</sup></sub>
+  <sub><sup>Managers of the Rift archival team are not owners of Rift, we are just aiming to keep versions of Rift safely in case anything happens to them. Rift is owned by Makks and developed by Makks and Jake, and Rift can be officially downloaded in the Rift [Discord server](https://discord.gg/riftfn "Discord server").Rift may be detected as a virus on some builds. Please note this is a false positive and can be bypassed by doing [this](https://www.youtube.com/watch?v=hDR3jRBq9pg}.</sup></sub>
