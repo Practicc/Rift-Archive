@@ -1,4 +1,0 @@
-Can't Upload The 2.2.0.5 Launcher with v1 dll to GitHub, so heres the g-drive
-
-Run Rift.exe in the folder and launch (i only tested this build)9.30-10.40
-https://drive.google.com/file/d/1YsQ2rjagtWEthT_HTMW9YECu1DyFI0Q2/view?usp=sharing
