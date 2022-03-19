@@ -6,7 +6,12 @@
 -
   Builds contributed by [Practic](https://tiktok.com/@0hdv "Practic"), [Alosh](https://twitter.com/aIoshreal "Alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo"), [Kianna](https://twitter.com/AyeItsAxi "Kianna"), [Wooby](https://twitter.com/_wob "Wooby"), and Trample Scott#6969.
   
- # Rift 2.0
+   # Pre 2.0
+| Version | Download | 
+| ----------- | ----------- | 
+| Rift Update 4 Launcher Fix | https://rebrand.ly/U-4-Fix |
+  
+  # Rift 2.0
 | Version | Download | 
 | ----------- | ----------- | 
 | Rift 2.0 | https://rebrand.ly/2-0 |
