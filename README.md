@@ -7,7 +7,7 @@
    # Pre 2.0
 | Version | Season Support | Download | 
 | ----------- | ----------- | ----------- | 
-| Rift Update 4 Launcher Fix | Unknown | https://rebrand.ly/U-4-Fix |
+| Rift Update 4 Launcher Fix | S9-S10  | https://rebrand.ly/U-4-Fix |
   
   # Rift 2.0
 | Version | Season Support | Download | 
