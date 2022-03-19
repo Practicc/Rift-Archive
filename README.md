@@ -10,33 +10,34 @@
 | Rift Update 4 Launcher Fix | Unknown | https://rebrand.ly/U-4-Fix |
   
   # Rift 2.0
-| Version | Download | 
-| ----------- | ----------- | 
-| Rift 2.0 | https://rebrand.ly/2-0 |
+| Version | Season Support | Download | 
+| ----------- | ----------- | ----------- | 
+| Rift 2.0 | Unknown | https://rebrand.ly/2-0 |
+
  # Rift 2.0.1.X
-| Version | Download | 
-| ----------- | ----------- | 
-| Rift 2.0.1.0 | https://rebrand.ly/2-0-1-0 |
-| Rift 2.0.1.2 | https://rebrand.ly/2-0-1-2 |
+| Version | Season Support | Download | 
+| ----------- | ----------- | ----------- |
+| Rift 2.0.1.0 | Unknown | https://rebrand.ly/2-0-1-0 |
+| Rift 2.0.1.2 | Unknown | https://rebrand.ly/2-0-1-2 |
   
   # Rift 2.1.0.X
-| Version | Download | 
-| ----------- | ----------- | 
-| Rift 2.1.0.0 | https://rebrand.ly/2-1-0 |
-| Rift 2.1.0.2 | https://rebrand.ly/2-1-0-2 |
-| Rift 2.1.0.3 | https://rebrand.ly/2-1-0-3 |
-| Rift 2.1.0.4-MP | https://rebrand.ly/2-1-0-4-mp |
-| Rift 2.1.0.4 | https://rebrand.ly/2-1-0-4 |
+| Version | Season Support | Download | 
+| ----------- | ----------- | ----------- |
+| Rift 2.1.0.0 | Unknown | https://rebrand.ly/2-1-0 |
+| Rift 2.1.0.2 | Unknown | https://rebrand.ly/2-1-0-2 |
+| Rift 2.1.0.3 | 1.7.2 - 15.50 | https://rebrand.ly/2-1-0-3 |
+| Rift 2.1.0.4-MP | 1.7.2 - 15.50 | https://rebrand.ly/2-1-0-4-mp |
+| Rift 2.1.0.4 | 1.7.2 - 15.50 | https://rebrand.ly/2-1-0-4 |
   
   # Rift 2.2.0.X
-| Version | Download | 
-| ----------- | ----------- | 
-| Rift 2.2.0.0 | https://rebrand.ly/2-2-0-0 |
-| Rift 2.2.0.1 | https://rebrand.ly/2-2-0-1 |
-| Rift 2.2.0.2 | https://rebrand.ly/2-2-0-2 |
-| Rift 2.2.0.4 | https://rebrand.ly/2-2-0-4 |
-| Rift 2.2.0.5 | https://rebrand.ly/2-2-0-5 |
-| Rift 2.2.0.5-B | https://rebrand.ly/2-2-0-5-B |
+| Version | Season Support | Download | 
+| ----------- | ----------- | ----------- | 
+| Rift 2.2.0.0 | 1.7.2 - 15.50 | https://rebrand.ly/2-2-0-0 |
+| Rift 2.2.0.1 | 1.7.2 - 15.50 | https://rebrand.ly/2-2-0-1 |
+| Rift 2.2.0.2 | 1.7.2 - 15.50| https://rebrand.ly/2-2-0-2 |
+| Rift 2.2.0.4 | 1.7.2 - 15.50| https://rebrand.ly/2-2-0-4 |
+| Rift 2.2.0.5 | 1.7.2 - 15.50| https://rebrand.ly/2-2-0-5 |
+| Rift 2.2.0.5-B | 1.7.2 - 15.50| https://rebrand.ly/2-2-0-5-B |
   
   # Have any builds that are not on this list? Submit them [here](https://forms.gle/iQsCTGjfqMEbcwHh7 "here")!
   
