@@ -2,33 +2,34 @@
   
 # Rift Archive
 
- Maintained by [Practic](https://tiktok.com/@0hdv "Practic"), [alosh](https://twitter.com/aIoshreal "alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo"), [Kianna](https://twitter.com/AyeItsAxi "Kianna"), and [Wooby](https://twitter.com/_wob "Wooby").
+ Maintained by [Practic](https://tiktok.com/@0hdv "Practic"), [Alosh](https://twitter.com/aIoshreal "Alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo"), [Kianna](https://twitter.com/AyeItsAxi "Kianna"), and [Wooby](https://twitter.com/_wob "Wooby").
 -
-  Builds contributed by [Practic](https://tiktok.com/@0hdv "Practic"), [alosh](https://twitter.com/aIoshreal "alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo"), [Kianna](https://twitter.com/AyeItsAxi "Kianna"), [Wooby](https://twitter.com/_wob "Wooby"), and Trample Scott#6969.
+  Builds contributed by [Practic](https://tiktok.com/@0hdv "Practic"), [Alosh](https://twitter.com/aIoshreal "Alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo"), [Kianna](https://twitter.com/AyeItsAxi "Kianna"), [Wooby](https://twitter.com/_wob "Wooby"), and Trample Scott#6969.
   
  # Rift 2.0.1.X
 | Version | Download | 
 | ----------- | ----------- | 
-| Rift 2.0.1.0 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.0.1.0.7z?raw=true |
-| Rift 2.0.1.2 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.0.1.2.7z?raw=true |
+| Rift 2.0.1.0 | https://rebrand.ly/2-0-1-0 |
+| Rift 2.0.1.2 | https://rebrand.ly/2-0-1-2 |
   
   # Rift 2.1.0.X
 | Version | Download | 
 | ----------- | ----------- | 
-| Rift 2.1.0 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.1.0.7z?raw=true |
-| Rift 2.1.0.2 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.1.0.2.7z?raw=true |
-| Rift 2.1.0.3 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.1.0.3.7z?raw=true |
-| Rift 2.1.0.3-MP | https://github.com/Practicc/Rift-Archive/blob/main/Builds/RiftMultiplayerLauncher.7z?raw=true |
-| Rift 2.1.0.4 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.1.0.4.7z?raw=true |
+| Rift 2.1.0 | https://rebrand.ly/2-1-0 |
+| Rift 2.1.0.2 | https://rebrand.ly/2-1-0-2 |
+| Rift 2.1.0.3 | https://rebrand.ly/2-1-0-3 |
+| Rift 2.1.0.4-MP | https://rebrand.ly/2-1-0-4-mp |
+| Rift 2.1.0.4 | https://rebrand.ly/2-1-0-4 |
   
   # Rift 2.2.0.X
 | Version | Download | 
 | ----------- | ----------- | 
-| Rift 2.2.0.0 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.2.0.0.7z?raw=true |
-| Rift 2.2.0.1 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.2.0.1.7z?raw=true |
-| Rift 2.2.0.2 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.2.0.2.7z?raw=true |
-| Rift 2.2.0.4 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.2.0.4.7z?raw=true |
-| Rift 2.2.0.5 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.2.0.5.7z?raw=true |
+| Rift 2.2.0.0 | https://rebrand.ly/2-2-0-0 |
+| Rift 2.2.0.1 | https://rebrand.ly/2-2-0-1 |
+| Rift 2.2.0.2 | https://rebrand.ly/2-2-0-2 |
+| Rift 2.2.0.4 | https://rebrand.ly/2-2-0-4 |
+| Rift 2.2.0.5 | https://rebrand.ly/2-2-0-5 |
+| Rift 2.2.0.5-B | https://rebrand.ly/2-2-0-5-B |
   
   # Have any builds that are not on this list? Submit them [here](https://forms.gle/iQsCTGjfqMEbcwHh7 "here")!
   
