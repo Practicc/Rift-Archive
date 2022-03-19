@@ -16,6 +16,9 @@
 | Version | Download | 
 | ----------- | ----------- | 
 | Rift 2.1.0 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.1.0.7z?raw=true |
+| Rift 2.1.0.2 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.1.0.2.7z?raw=true |
+| Rift 2.1.0.3 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.1.0.3.7z?raw=true |
+| Rift 2.1.0.3-MP | https://github.com/Practicc/Rift-Archive/blob/main/Builds/RiftMultiplayerLauncher.7z?raw=true |
 | Rift 2.1.0.4 | https://github.com/Practicc/Rift-Archive/blob/main/Builds/Rift-2.1.0.4.7z?raw=true |
   
   # Rift 2.2.0.X
