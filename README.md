@@ -36,6 +36,7 @@
 | Rift 2.2.0.0 | 1.7.2 - 15.50 | https://rebrand.ly/2-2-0-0 |
 | Rift 2.2.0.1 | 1.7.2 - 15.50 | https://rebrand.ly/2-2-0-1 |
 | Rift 2.2.0.2 | 1.7.2 - 15.50| https://rebrand.ly/2-2-0-2 |
+| Rift 2.2.0.3 | 1.7.2 - 15.50| https://rebrand.ly/2-2-0-3 |
 | Rift 2.2.0.4 | 1.7.2 - 15.50| https://rebrand.ly/2-2-0-4 |
 | Rift 2.2.0.5 | 1.7.2 - 15.50| https://rebrand.ly/2-2-0-5 |
 | Rift 2.2.0.5-B | 1.7.2 - 15.50| https://rebrand.ly/2-2-0-5-B |
