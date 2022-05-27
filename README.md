@@ -2,7 +2,7 @@
 
  Maintained by [Practic](https://tiktok.com/@0hdv "Practic"), [alosh](https://twitter.com/aIoshreal "alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo") and [Kianna](https://twitter.com/AyeItsAxi "Kianna").
 -
-  Builds contributed by [Practic](https://tiktok.com/@0hdv "Practic"), [alosh](https://twitter.com/aIoshreal "alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo"), [Kianna](https://twitter.com/AyeItsAxi "Kianna"), [Wooby](https://twitter.com/_wob "Wooby"), Trample Scott#6969, and krisp#3900.
+  Builds contributed by [Practic](https://tiktok.com/@0hdv "Practic"), [alosh](https://twitter.com/aIoshreal "alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo"), [Kianna](https://twitter.com/AyeItsAxi "Kianna"), [Wooby](https://twitter.com/_wob "Wooby"), Trample Scott#6969, krisp#3900, and uni#9000.
   
    # Pre 2.0
 | Version | Season Support | Download | 
@@ -34,7 +34,7 @@
   # Rift 2.2.0.X
 | Version | Season Support | Download | 
 | ----------- | ----------- | ----------- | 
-| Rift 2.2.0.0 | 1.7.2 - 15.50 | https://rebrand.ly/2-2-pre |
+| Rift 2.2.0.0 Pre-release | 1.7.2 - 15.50 | https://rebrand.ly/2-2-pre |
 | Rift 2.2.0.0 | 1.7.2 - 15.50 | https://rebrand.ly/2-2-0-0 |
 | Rift 2.2.0.1 | 1.7.2 - 15.50 | https://rebrand.ly/2-2-0-1 |
 | Rift 2.2.0.2 | 1.7.2 - 15.50| https://rebrand.ly/2-2-0-2 |
