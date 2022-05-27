@@ -24,7 +24,7 @@
   # Rift 2.1.0.X
 | Version | Season Support | Download | 
 | ----------- | ----------- | ----------- |
-| Rift 2.1-Dev | Unknown | https://rebrand.ly/2-1-dev |
+| Rift 2.1-Dev | Unknown | https://rebrand.ly/2-1-dev|
 | Rift 2.1.0.0 | Unknown | https://rebrand.ly/2-1-0 |
 | Rift 2.1.0.2 | Unknown | https://rebrand.ly/2-1-0-2 |
 | Rift 2.1.0.3 | 1.7.2 - 15.50 | https://rebrand.ly/2-1-0-3 |
