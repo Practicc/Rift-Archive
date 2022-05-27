@@ -34,6 +34,7 @@
   # Rift 2.2.0.X
 | Version | Season Support | Download | 
 | ----------- | ----------- | ----------- | 
+| Rift 2.2.0.0 | 1.7.2 - 15.50 | https://rebrand.ly/2-2-pre |
 | Rift 2.2.0.0 | 1.7.2 - 15.50 | https://rebrand.ly/2-2-0-0 |
 | Rift 2.2.0.1 | 1.7.2 - 15.50 | https://rebrand.ly/2-2-0-1 |
 | Rift 2.2.0.2 | 1.7.2 - 15.50| https://rebrand.ly/2-2-0-2 |
