@@ -7,42 +7,42 @@
    # Pre 2.0
 | Version | Season Support | Download | 
 | ----------- | ----------- | ----------- | 
-|Rift Launcher | 9.30-15.50  |https://rebrand.ly/RiftL |
-| Rift Update 4 Launcher Fix | 9.30-15.50  | https://rebrand.ly/U-4-Fix |
+|Rift Launcher | 9.30-15.50  | [Download](https://rebrand.ly/RiftL "Download") |
+| Rift Update 4 Launcher Fix | 9.30-15.50  |  [Download](https://rebrand.ly/U-4-Fix "Download") |
   
   # Rift 2.0
 | Version | Season Support | Download | 
 | ----------- | ----------- | ----------- | 
-| Rift 2.0 | Unknown | https://rebrand.ly/2-0 |
+| Rift 2.0 | Unknown | [Download](https://rebrand.ly/2-0 "Download") |
 
  # Rift 2.0.1.X
 | Version | Season Support | Download | 
 | ----------- | ----------- | ----------- |
-| Rift 2.0.1.0 | Unknown | https://rebrand.ly/2-0-1-0 |
-| Rift 2.0.1.2 | Unknown | https://rebrand.ly/2-0-1-2 |
+| Rift 2.0.1.0 | Unknown | [Download](https://rebrand.ly/2-0-1-0 "Download") |
+| Rift 2.0.1.2 | Unknown | [Download](https://rebrand.ly/2-0-1-2 "Download") |
   
   # Rift 2.1.0.X
 | Version | Season Support | Download | 
 | ----------- | ----------- | ----------- |
-| Rift 2.1-Dev | Unknown | https://rebrand.ly/2-1-dev|
-| Rift 2.1.0.0 | Unknown | https://rebrand.ly/2-1-0 |
-| Rift 2.1.0.2 | Unknown | https://rebrand.ly/2-1-0-2 |
-| Rift 2.1.0.3 | 1.7.2 - 15.50 | https://rebrand.ly/2-1-0-3 |
-| Rift 2.1.0.4-MP | 1.7.2 - 15.50 | https://rebrand.ly/2-1-0-4-mp |
-| Rift 2.1.0.4 | 1.7.2 - 15.50 | https://rebrand.ly/2-1-0-4 |
+| Rift 2.1-Dev | Unknown | [Download](https://rebrand.ly/2-1-dev "Download")|
+| Rift 2.1.0.0 | Unknown | [Download](https://rebrand.ly/2-1-0 "Download") |
+| Rift 2.1.0.2 | Unknown | [Download](https://rebrand.ly/2-1-0-2 "Download") |
+| Rift 2.1.0.3 | 1.7.2 - 15.50 | [Download](https://rebrand.ly/2-1-0-3 "Download") |
+| Rift 2.1.0.4-MP | 1.7.2 - 15.50 | [Download](https://rebrand.ly/2-1-0-4-mp "Download") |
+| Rift 2.1.0.4 | 1.7.2 - 15.50 | [Download](https://rebrand.ly/2-1-0-4 "Download") |
   
   # Rift 2.2.0.X
 | Version | Season Support | Download | 
 | ----------- | ----------- | ----------- | 
-| Rift 2.2.0.0 Pre-release | 1.7.2 - 15.50 | https://rebrand.ly/2-2-pre |
-| Rift 2.2.0.0 | 1.7.2 - 15.50 | https://rebrand.ly/2-2-0-0 |
-| Rift 2.2.0.1 | 1.7.2 - 15.50 | https://rebrand.ly/2-2-0-1 |
-| Rift 2.2.0.2 | 1.7.2 - 15.50| https://rebrand.ly/2-2-0-2 |
-| Rift 2.2.0.3 | 1.7.2 - 15.50| https://rebrand.ly/2-2-0-3 |
-| Rift 2.2.0.4 | 1.7.2 - 15.50| https://rebrand.ly/2-2-0-4 |
-| Rift 2.2.0.5 | 1.7.2 - 15.50| https://rebrand.ly/2-2-0-5 |
-| Rift 2.2.0.5-B | 1.7.2 - 15.50| https://rebrand.ly/2-2-0-5-B |
-| Rift 2.2.0.6 | 1.7.2 - 15.50 | https://rebrand.ly/2-2-0-6 |
+| Rift 2.2.0.0 Pre-release | 1.7.2 - 15.50 | [Download](https://rebrand.ly/2-2-pre "Download") |
+| Rift 2.2.0.0 | 1.7.2 - 15.50 | [Download](https://rebrand.ly/2-2-0-0 "Download") |
+| Rift 2.2.0.1 | 1.7.2 - 15.50 | [Download](https://rebrand.ly/2-2-0-1 "Download") |
+| Rift 2.2.0.2 | 1.7.2 - 15.50| [Download](https://rebrand.ly/2-2-0-2 "Download") |
+| Rift 2.2.0.3 | 1.7.2 - 15.50| [Download](https://rebrand.ly/2-2-0-3 "Download") |
+| Rift 2.2.0.4 | 1.7.2 - 15.50| [Download](https://rebrand.ly/2-2-0-4 "Download") |
+| Rift 2.2.0.5 | 1.7.2 - 15.50| [Download](https://rebrand.ly/2-2-0-5 "Download") |
+| Rift 2.2.0.5-B | 1.7.2 - 15.50| [Download](https://rebrand.ly/2-2-0-5-B "Download") |
+| Rift 2.2.0.6 | 1.7.2 - 15.50 | [Download](https://rebrand.ly/2-2-0-6 "Download") |
   
   # Have any builds that are not on this list? Submit them [here](https://forms.gle/iQsCTGjfqMEbcwHh7 "here")!
   
