@@ -42,6 +42,7 @@
 | Rift 2.2.0.4 | 1.7.2 - 15.50| https://rebrand.ly/2-2-0-4 |
 | Rift 2.2.0.5 | 1.7.2 - 15.50| https://rebrand.ly/2-2-0-5 |
 | Rift 2.2.0.5-B | 1.7.2 - 15.50| https://rebrand.ly/2-2-0-5-B |
+| Rift 2.2.0.6 | 1.7.2 - 15.50 | https://rebrand.ly/2-2-0-6 |
   
   # Have any builds that are not on this list? Submit them [here](https://forms.gle/iQsCTGjfqMEbcwHh7 "here")!
   
