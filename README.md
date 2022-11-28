@@ -4,7 +4,7 @@
 -
   Builds contributed by [Practic](https://tiktok.com/@0hdv "Practic"), [alosh](https://twitter.com/aIoshreal "alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo"), [Kianna](https://twitter.com/AyeItsAxi "Kianna"), [Wooby](https://twitter.com/_wob "Wooby"), Trample Scott#6969, krisp#3900, and uni#9000.
   
-   # Pre 2.0
+   # 1.0
 | Version | Season Support | Download | 
 | ----------- | ----------- | ----------- | 
 |Rift Launcher | 9.30-15.50  | [Download](https://rebrand.ly/RiftL "Download") |
