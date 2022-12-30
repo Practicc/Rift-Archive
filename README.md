@@ -43,6 +43,11 @@
 | Rift 2.2.0.5 | 1.7.2 - 15.50| [Download](https://rebrand.ly/2-2-0-5 "Download") |
 | Rift 2.2.0.5-B | 1.7.2 - 15.50| [Download](https://rebrand.ly/2-2-0-5-B "Download") |
 | Rift 2.2.0.6 | 1.7.2 - 15.50 | [Download](https://rebrand.ly/2-2-0-6 "Download") |
+
+  # Rift 2.2.1.X
+| Version | Season Support | Download | 
+| ----------- | ----------- | ----------- | 
+| Rift 2.2.1.0 | 1.7.2 - 15.50 | [Download](https://rebrand.ly/2-2-1-0 "Download") |
   
   # Have any builds that are not on this list? Submit them [here](https://forms.gle/iQsCTGjfqMEbcwHh7 "here")!
   
