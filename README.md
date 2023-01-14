@@ -2,13 +2,15 @@
 
  Maintained by [Practic](https://tiktok.com/@0hdv "Practic"), [alosh](https://twitter.com/aIoshreal "alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo") and [Kianna](https://twitter.com/AyeItsAxi "Kianna").
 -
-  Builds contributed by [Practic](https://tiktok.com/@0hdv "Practic"), [alosh](https://twitter.com/aIoshreal "alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo"), [Kianna](https://twitter.com/AyeItsAxi "Kianna"), [Wooby](https://twitter.com/_wob "Wooby"), Trample Scott#6969, krisp#3900, and uni#9000.
+  Builds contributed by [Practic](https://tiktok.com/@0hdv "Practic"), [alosh](https://twitter.com/aIoshreal "alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo"), [Kianna](https://twitter.com/AyeItsAxi "Kianna"), [Wooby](https://twitter.com/_wob "Wooby"), Trample Scott#6969, krisp#3900, uni#9000, and silver#.
   
    # 1.0
 | Version | Season Support | Download | 
 | ----------- | ----------- | ----------- | 
-|Rift Launcher | 9.30-15.50  | [Download](https://rebrand.ly/RiftL "Download") |
+| Rift Launcher | 9.30-15.50  | [Download](https://rebrand.ly/RiftL "Download") |
+| Rift Update 4 | 9.30-15.50  | [Download](https://cdn.discordapp.com/attachments/970736776442429491/1063760480340017192/RiftLauncher-Update4.7z "Download")
 | Rift Update 4 Launcher Fix | 9.30-15.50  |  [Download](https://rebrand.ly/U-4-Fix "Download") |
+| Event Update | 9.30-15.50 | [Download](https://cdn.discordapp.com/attachments/970736776442429491/1063760481040478218/EventUpdate.7z "Download")
   
   # Rift 2.0
 | Version | Season Support | Download | 
@@ -26,6 +28,7 @@
 | ----------- | ----------- | ----------- |
 | Rift 2.1-Dev | Unknown | [Download](https://rebrand.ly/2-1-dev "Download")|
 | Rift 2.1.0.0 | Unknown | [Download](https://rebrand.ly/2-1-0 "Download") |
+| Rift 2.1.0.1 | Unknown | [Download](https://cdn.discordapp.com/attachments/970736776442429491/1063760481715761202/Rift-2.1.0.1.7z "Download")
 | Rift 2.1.0.2 | Unknown | [Download](https://rebrand.ly/2-1-0-2 "Download") |
 | Rift 2.1.0.3 | 1.7.2 - 15.50 | [Download](https://rebrand.ly/2-1-0-3 "Download") |
 | Rift 2.1.0.4-MP | 1.7.2 - 15.50 | [Download](https://rebrand.ly/2-1-0-4-mp "Download") |
@@ -43,11 +46,19 @@
 | Rift 2.2.0.5 | 1.7.2 - 15.50| [Download](https://rebrand.ly/2-2-0-5 "Download") |
 | Rift 2.2.0.5-B | 1.7.2 - 15.50| [Download](https://rebrand.ly/2-2-0-5-B "Download") |
 | Rift 2.2.0.6 | 1.7.2 - 15.50 | [Download](https://rebrand.ly/2-2-0-6 "Download") |
+| Rift 2.2.0.6.1 | NONE | [Download](https://cdn.discordapp.com/attachments/868467380014178346/1049805448401920010/Rift-2.2.0.6.1.zip "Download")
 
   # Rift 2.2.1.X
 | Version | Season Support | Download | 
 | ----------- | ----------- | ----------- | 
 | Rift 2.2.1.0 | 1.7.2 - 15.50 | [Download](https://rebrand.ly/2-2-1-0 "Download") |
+
+  # Unofficial (and probably unsafe) builds, download at own risk
+| Version | Season Support | Download | 
+| ----------- | ----------- | ----------- | 
+| Rift++ | Unknown | [Download](https://cdn.discordapp.com/attachments/970736776442429491/1063760481329872906/RiftUNOFFICIAL.7z "Download") | 
+| some funny rift dll injector | Unknown | [Download](https://cdn.discordapp.com/attachments/970736776442429491/1063760480721707099/RiftReSkidded.7z "Download")
+  
   
   # Have any builds that are not on this list? Submit them [here](https://forms.gle/iQsCTGjfqMEbcwHh7 "here")!
   
