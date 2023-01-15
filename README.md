@@ -1,4 +1,4 @@
-# Fortnite Rift Archive
+# Rift Private Server Archive
 
  Maintained by [Practic](https://tiktok.com/@0hdv "Practic"), [alosh](https://twitter.com/aIoshreal "alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo") and [Kianna](https://twitter.com/AyeItsAxi "Kianna").
 -
@@ -26,7 +26,7 @@
   # Rift 2.1.0.X
 | Version | Season Support | Download | 
 | ----------- | ----------- | ----------- |
-| Rift 2.1-Dev | Unknown | [Download](https://rebrand.ly/2-1-dev "Download")|
+| Rift 2.1-Dev | Unknown | [Download](https://cdn.discordapp.com/attachments/1064043825955344506/1064068356384231444/Rift-2.1.0.7z "Download")|
 | Rift 2.1.0.0 | Unknown | [Download](https://rebrand.ly/2-1-0 "Download") |
 | Rift 2.1.0.1 | Unknown | [Download](https://cdn.discordapp.com/attachments/970736776442429491/1063760481715761202/Rift-2.1.0.1.7z "Download")
 | Rift 2.1.0.2 | Unknown | [Download](https://rebrand.ly/2-1-0-2 "Download") |
