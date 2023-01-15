@@ -52,7 +52,7 @@
 | Version | Season Support | Download | 
 | ----------- | ----------- | ----------- | 
 | Rift 2.2.1.0 | 1.7.2 - 15.50 | [Download](https://rebrand.ly/2-2-1-0 "Download") |
-| Rift 2.2.1.0 | 1.7.2 - 15.50 | [Download](https://cdn.discordapp.com/attachments/1064043825955344506/1064046362104184902/RiftBetaLauncher.zip "Download") |
+| Rift 2.2.1.1 | 1.7.2 - 15.50 | [Download](https://cdn.discordapp.com/attachments/1064043825955344506/1064046362104184902/RiftBetaLauncher.zip "Download") |
 
   
   # Have any builds that are not on this list? Submit them [here](https://forms.gle/iQsCTGjfqMEbcwHh7 "here")!
