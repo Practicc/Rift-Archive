@@ -53,12 +53,6 @@
 | ----------- | ----------- | ----------- | 
 | Rift 2.2.1.0 | 1.7.2 - 15.50 | [Download](https://rebrand.ly/2-2-1-0 "Download") |
 
-  # Unofficial (and probably unsafe) builds, download at own risk
-| Version | Season Support | Download | 
-| ----------- | ----------- | ----------- | 
-| Rift++ | Unknown | [Download](https://cdn.discordapp.com/attachments/970736776442429491/1063760481329872906/RiftUNOFFICIAL.7z "Download") | 
-| some funny rift dll injector | Unknown | [Download](https://cdn.discordapp.com/attachments/970736776442429491/1063760480721707099/RiftReSkidded.7z "Download")
-  
   
   # Have any builds that are not on this list? Submit them [here](https://forms.gle/iQsCTGjfqMEbcwHh7 "here")!
   
