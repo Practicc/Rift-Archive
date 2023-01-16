@@ -1,8 +1,8 @@
 # Rift Private Server Archive
 
- Maintained by [Practic](https://tiktok.com/@0hdv "Practic"), [alosh](https://twitter.com/aIoshhTM "Alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo") and [Kianna](https://twitter.com/AyeItsAxi "Adrian").
+ Maintained by [Practic](https://tiktok.com/@0hdv "Practic"), [Alosh](https://twitter.com/aIoshhTM "Alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo") and [Kianna](https://twitter.com/AyeItsAxi "Kianna").
 -
-  Builds contributed by [Practic](https://tiktok.com/@0hdv "Practic"), [alosh](https://twitter.com/aIoshreal "Alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo"), [Kianna](https://twitter.com/AyeItsAxi "Kianna"), [Wooby](https://twitter.com/_wob "Wooby"), Trample Scott#6969, krisp#3900, uni#9000, and silver#6406.
+  Builds contributed by [Practic](https://tiktok.com/@0hdv "Practic"), [Alosh](https://twitter.com/aIoshreal "Alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo"), [Kianna](https://twitter.com/AyeItsAxi "Kianna"), [Wooby](https://twitter.com/_wob "Wooby"), Trample Scott#6969, krisp#3900, uni#9000, and silver#6406.
   
    # 1.0
 | Version | Season Support | Download | 
