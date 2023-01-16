@@ -1,6 +1,6 @@
 # Rift Private Server Archive
 
- Maintained by [Practic](https://tiktok.com/@0hdv "Practic"), [alosh](https://twitter.com/aIoshhTM "Alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo") and [Kianna](https://twitter.com/AyeItsAxi "Kianna").
+ Maintained by [Practic](https://tiktok.com/@0hdv "Practic"), [alosh](https://twitter.com/aIoshhTM "Alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo") and [Kianna](https://twitter.com/AyeItsAxi "Adrian").
 -
   Builds contributed by [Practic](https://tiktok.com/@0hdv "Practic"), [alosh](https://twitter.com/aIoshreal "Alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo"), [Kianna](https://twitter.com/AyeItsAxi "Kianna"), [Wooby](https://twitter.com/_wob "Wooby"), Trample Scott#6969, krisp#3900, uni#9000, and silver#6406.
   
