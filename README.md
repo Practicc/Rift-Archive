@@ -10,6 +10,7 @@
 | Version | Season Support | Download | 
 | ----------- | ----------- | ----------- | 
 | Rift Launcher | 9.30-15.50  | [Download](https://rebrand.ly/RiftL "Download") |
+| Rift ???? | 9.30-15.50 | [Download](https://drive.google.com/file/d/1spi2eitin_qopjMMg2_FUjedLDblZuqi/view?usp=sharing_"Download") |
 | Rift Update 4 | 9.30-15.50  | [Download](https://cdn.discordapp.com/attachments/970736776442429491/1063760480340017192/RiftLauncher-Update4.7z "Download")
 | Rift Update 4 Launcher Fix | 9.30-15.50  |  [Download](https://rebrand.ly/U-4-Fix "Download") |
 | Event Update | 9.30-15.50 | [Download](https://cdn.discordapp.com/attachments/970736776442429491/1063760481040478218/EventUpdate.7z "Download")
