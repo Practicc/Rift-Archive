@@ -2,7 +2,7 @@
 
  Maintained by [Practic](https://tiktok.com/@tnld "Practic"), [Alosh](https://twitter.com/aloshhTM "Alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo") and [Adrian](https://twitter.com/AyeItsAxi "Adrian").
 -
-  Builds contributed by [Practic](https://tiktok.com/@0hdv "Practic"), [Alosh](https://twitter.com/aloshhTM "Alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo"), [Adrian](https://twitter.com/AyeItsAxi "Adrian"), [Wooby](https://twitter.com/_wob "Wooby"), Trample Scott#6969, krisp#3900, uni#9000, and silver#6406.
+  Builds contributed by [Practic](https://tiktok.com/@tnld "Practic"), [Alosh](https://twitter.com/aloshhTM "Alosh"), [Fizlo](https://www.youtube.com/channel/UCzmOR_-6ohN4ji2z_tgH1vA "Fizlo"), [Adrian](https://twitter.com/AyeItsAxi "Adrian"), [Wooby](https://twitter.com/_wob "Wooby"), Trample Scott#6969, krisp#3900, uni#9000, and silver#6406.
 
 **These builds contain known security flaws, and no support will be provided for them nor can we guarantee flawless operation. Run these programs at your own risk.**
   
